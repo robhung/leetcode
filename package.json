@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "A collection of completed coding exercises from LeetCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robhung/leetcode.git"
+  },
+  "author": "Robert Hung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robhung/leetcode/issues"
+  },
+  "homepage": "https://github.com/robhung/leetcode#readme",
+  "devDependencies": {
+    "jest": "^25.5.4"
+  }
+}
